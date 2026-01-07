@@ -13,7 +13,8 @@
 - **MewarMeals** – Online food ordering platform  
   Tech: HTML, CSS, JavaScript  
 
-- **DSA in C++** – Arrays, Binary Search, Sorting  
+- **DSA in C++** – Arrays, Binary Search, Sorting
+-  **Frontend UI Clones** (Swiggy, Myntra, VS Code)
 
 ## 🔗 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/daleep-singh-shekhawat-424111244
