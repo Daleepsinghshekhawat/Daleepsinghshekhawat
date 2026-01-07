@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Daleep Singh Shekhawat
 
-<!--
-**Daleepsinghshekhawat/Daleepsinghshekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack / Frontend Developer Intern at Regex Software  
+🚀 Passionate about building responsive web apps and solving problems with C++ & DSA
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Languages: C++, JavaScript
+- Frontend: HTML5, CSS3, React
+- Backend: Node.js, Express
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **MewarMeals** – Online food ordering platform  
+  Tech: HTML, CSS, JavaScript  
+
+- **DSA in C++** – Arrays, Binary Search, Sorting  
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/daleep-singh-shekhawat-424111244
